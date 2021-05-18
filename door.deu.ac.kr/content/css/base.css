@@ -1,0 +1,26 @@
+* {margin:0;padding:0;-webkit-text-size-adjust:none;}
+
+html {width: 100%; height: 100%;}
+div, table {margin: 0; padding:0; background: transparent;}
+body {
+	width:100%; 
+	height:100%;
+	line-height: 100%;
+	scrollbar-face-color:#FFFFFF;
+	scrollbar-shadow-color:#BBBBBB;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-3dlight-color:#FFFFFF;
+	scrollbar-darkshadow-color:#FFFFFF;
+	scrollbar-track-color:#EEEEEE;
+	scrollbar-arrow-color:#BBBBBB;
+	margin:0px;
+	/*text-align:center;*/
+	background-color:#fff;
+	font: 14px 'Malgun Gothic', 'êµ´ë¦¼','ë‹ì›€',AppleGothic,Sans-serif;
+	color:#333333; 
+	font-size:14px; 
+	letter-spacing:-0.025em;
+}
+
+select{ font-size: 100%; font-family:'Malgun Gothic', "Gulim", "Dotum", "Lucida Grande", Helvetica, Arial,Verdana, AppleGothic, sans-serif;}
+input, textarea{ font-size:100%;  font-family:'Malgun Gothic', "Gulim", "Dotum", "Lucida Grande", Helvetica, Arial,Verdana, AppleGothic, sans-serif;}
