@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 May 2021 19:27:22 at http://door.deu.ac.kr/Home/Index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://door.deu.ac.kr/Home/Index -O1 "C:\Users\Administrator\Desktop\HTTrack\Door" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:29:33	Error: 	"Not Found" (404) at link door.deu.ac.kr/content/image/main/ico_play.png (from door.deu.ac.kr/content/css/pubSheet.css)
+19:29:33	Error: 	"Not Found" (404) at link door.deu.ac.kr/content/image/main/ico_stop.png (from door.deu.ac.kr/content/css/pubSheet.css)
+19:29:33	Error: 	"Not Found" (404) at link door.deu.ac.kr/content/css/Content/images/common/bg_loginbox01.gif (from door.deu.ac.kr/content/css/common.css)
+19:29:33	Error: 	"Not Found" (404) at link door.deu.ac.kr/content/images/common/shadow4.png (from door.deu.ac.kr/content/css/popup.css)
+19:29:33	Error: 	"Not Found" (404) at link door.deu.ac.kr/content/css/img/bg_border_corner.gif (from door.deu.ac.kr/content/css/etc.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 11 seconds : 131 links scanned, 125 files written (3219837 bytes overall) [2986924 bytes received at 22800 bytes/sec], 384732 bytes transferred using HTTP compression in 19 files, ratio 24%, 7.7 requests per connection
+(5 errors, 0 warnings, 0 messages)
