@@ -1,0 +1,101 @@
+/* UI Object */
+
+/* 나눔고딕 Light */
+@font-face {
+	font-family: "NGL";
+	src: url('http://door.deu.ac.kr/content/font/NanumGothicLight.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumGothicLight.eot?#iefix') format('embedded-opentype')
+	/*, url('../font/NanumGothicLight.ttf') format('truetype')*/
+	, url('http://door.deu.ac.kr/content/font/NanumGothicLight.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/* 나눔고딕 */
+@font-face {
+	font-family: "NG";
+	src: url('http://door.deu.ac.kr/content/font/NanumGothic.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumGothic.eot?#iefix') format('embedded-opentype')
+	/*, url('../font/NanumGothic.ttf') format('truetype')*/
+	, url('http://door.deu.ac.kr/content/font/NanumGothic.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔고딕 Bold */
+@font-face {
+	font-family: "NGB";
+	src: url('http://door.deu.ac.kr/content/font/NanumGothicBold.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumGothicBold.eot?#iefix') format('embedded-opentype')
+	/*, url('../font/NanumGothicBold.ttf') format('truetype')*/
+	, url('http://door.deu.ac.kr/content/font/NanumGothicBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔고딕 ExtraBold */
+@font-face {
+	font-family: "NGEB";
+	src: url('http://door.deu.ac.kr/content/font/NanumGothicExtraBold.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumGothicExtraBold.eot?#iefix') format('embedded-opentype')
+	/*, url('../font/NanumGothicExtraBold.ttf') format('truetype')*/
+	, url('http://door.deu.ac.kr/content/font/NanumGothicExtraBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔명조 */
+@font-face {
+	font-family: "NM";
+	src: url('http://door.deu.ac.kr/content/font/NanumMyeongjo.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjo.eot?#iefix') format('embedded-opentype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjo.ttf') format('truetype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjo.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔명조 Bold */
+@font-face {
+	font-family: "NMB";
+	src: url('http://door.deu.ac.kr/content/font/NanumMyeongjoBold.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoBold.eot?#iefix') format('embedded-opentype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoBold.ttf') format('truetype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔명조 ExtraBold */
+@font-face {
+	font-family: "NMEB";
+	src: url('http://door.deu.ac.kr/content/font/NanumMyeongjoExtraBold.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoExtraBold.eot?#iefix') format('embedded-opentype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoExtraBold.ttf') format('truetype')
+	, url('http://door.deu.ac.kr/content/font/NanumMyeongjoExtraBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* 나눔고딕코딩-Bold */
+@font-face {
+	font-family: "NGCB";
+	src: url('http://door.deu.ac.kr/content/font/NanumGothicCodingBold.eot');
+	src: local('?')
+	, url('http://door.deu.ac.kr/content/font/NanumGothicCodingBold.eot?#iefix') format('embedded-opentype')
+	/*, url('../font/NanumGothicCodingBold.ttf') format('truetype')*/
+	, url('http://door.deu.ac.kr/content/font/NanumGothicCodingBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* //UI Object */
+
