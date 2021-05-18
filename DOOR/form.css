@@ -1,0 +1,157 @@
+/* UI Object */
+.form_top{}
+.form_top select{font-size:12px;padding:3px 0 3px 0;}
+.form_top .i_text{position:relative;padding:2px 4px 3px 4px;border:1px solid #b7b7b7;background:transparent;vertical-align:top;}
+
+
+.form_table{margin:1em 0;font-size:12px;}
+.form_table input,
+.form_table textarea,
+.form_table select,
+.form_table table,
+.form_table button{font-size:12px}
+.form_table table{width:100%;border:0;border-top:2px solid #01b0c3;border-collapse:collapse}
+.form_table caption{padding:8px 0;font-weight:bold;text-align:left}
+.form_table th,
+.form_table td{padding:8px;border:0;vertical-align: top;}
+.form_table th{color:#595a59}
+.form_table td{color:#666}
+.form_table thead th{border-bottom:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;background:#f8f8f8;text-align:center !important;}
+.form_table tbody th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;background:#fafafa;text-align:center !important;}
+.form_table tfoot th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd}
+.form_table tbody td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;text-align:center;}
+.form_table tfoot td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;font-weight:bold;color:#333}
+.form_table .item{position:relative;margin:-4px 0}
+.form_table .item .i_help{position:absolute;top:4px;right:0}
+.form_table .item .i_label{ top:6px; left:10px}
+.form_table .item .i_dsc{margin:2px 0}
+.form_table .item .i_check,
+.form_table .item .i_radio{width:13px;height:13px;margin:2px 5px 2px 0;padding:0;vertical-align:middle}
+.form_table .item .i_text{position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;background:transparent}
+.form_table .item .hide{visibility:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:0;line-height:0}
+.form_table .item select{margin:2px}
+.form_table .item label{margin:0 10px 0 0;cursor:pointer}
+
+
+/*ì‚¬ìš©ìž ì¶”ê°€ í¼ìŠ¤íƒ€ì¼*/
+.form_table .item .i_text_300{width:300px;position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table .item .i_text_200{width:200px;position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table .item .i_text_100{width:100px;position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table .item .i_text_50{width:50px;position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table .item .i_text_25{width:25px;position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+
+.form_table .item1{position:relative;margin:0}
+.form_table .item1 .i_help{position:absolute;top:4px;right:0}
+.form_table .item1 .i_label{ top:6px; left:10px}
+.form_table .item1 .i_dsc{margin:2px 0}
+.form_table .item1 .i_check,
+.form_table .item1 .i_radio{width:13px;height:13px;margin:2px 5px 2px 0;padding:0;vertical-align:middle}
+.form_table .item1 .i_text{position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table .item1 .hide{visibility:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:0;line-height:0}
+.form_table .item1 select{margin:2px}
+.form_table .item1 label{margin:0 10px 0 0;cursor:pointer}
+
+.form_table .contents {height:200px}
+
+.srch{width:100%;padding:5px 0}
+.srch select,.srch input{font-size:12px;color:#373737;vertical-align:middle}
+.srch .inputtd{padding-left:20px}
+
+/* //UI Object */
+
+/*ê¸°ë³¸ì •ë³´*/
+.form_table_b{margin:1em 0;font-size:12px;}
+.form_table_b input,
+.form_table_b textarea,
+.form_table_b select,
+.form_table_b table,
+.form_table_b button{font-size:12px}
+.form_table_b table{width:100%;border:0;border-top:1px solid #dadada}
+.form_table_b caption{padding:8px 0;font-weight:bold;text-align:left}
+.form_table_b th,
+.form_table_b td{padding:8px;border:0;vertical-align:top}
+.form_table_b th{color:#898989}
+.form_table_b td{color:#898989}
+.form_table_b thead th{border-bottom:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;background:#f8f8f8;text-align:center !important;}
+.form_table_b tbody th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;background:#fafafa;text-align:center !important;}
+.form_table_b tfoot th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;}
+.form_table_b tbody td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;text-align:center;}
+.form_table_b tfoot td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;font-weight:bold;color:#333}
+.form_table_b .item{position:relative;margin:-4px 0}
+.form_table_b .item .i_help{position:absolute;top:4px;right:0}
+.form_table_b .item .i_label{ top:6px; left:10px}
+.form_table_b .item .i_dsc{margin:2px 0}
+.form_table_b .item .i_check,
+.form_table_b .item .i_radio{width:13px;height:13px;margin:2px 5px 2px 0;padding:0;vertical-align:middle}
+.form_table_b .item .i_text{position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table_b .item .hide{visibility:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:0;line-height:0}
+.form_table_b .item select{margin:2px}
+.form_table_b .item label{margin:0 10px 0 0;cursor:pointer}
+/*//ê¸°ë³¸ì •ë³´*/
+
+/*ìž…ë ¥*/
+.form_table_s{margin:1em 0;font-size:12px;}
+.form_table_s input,
+.form_table_s textarea,
+.form_table_s select,
+.form_table_s table,
+.form_table_s button{font-size:12px}
+.form_table_s table{width:100%;border:0;border-top:1px solid #999}
+.form_table_s caption{padding:8px 0;font-weight:bold;text-align:left}
+.form_table_s th,
+.form_table_s td{padding:8px;border:0;vertical-align: middle;border-bottom:1px solid #ccc;}
+.form_table_s th{color:#333}
+.form_table_s td{color:#666}
+.form_table_s thead th{border-bottom:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;background:#e3ecf0;text-align:center !important;}
+.form_table_s tbody th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;text-align:center !important;}
+.form_table_s tfoot th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;}
+.form_table_s tbody td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;text-align:center;}
+.form_table_s tfoot td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;font-weight:bold;color:#333}
+.form_table_s .item{position:relative;margin:-4px 0}
+.form_table_s .item .i_help{position:absolute;top:4px;right:0}
+.form_table_s .item .i_label{ top:6px; left:10px}
+.form_table_s .item .i_dsc{margin:2px 0}
+.form_table_s .item .i_check,
+.form_table_s .item .i_radio{width:13px;height:13px;margin:2px 5px 2px 0;padding:0;vertical-align:middle}
+.form_table_s .item .i_text{position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table_s .item .hide{visibility:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:0;line-height:0}
+.form_table_s .item select{margin:2px}
+.form_table_s .item label{margin:0 10px 0 0;cursor:pointer}
+/*//ìž…ë ¥*/
+
+/*ë„“ì€í‘œìš©*/
+.form_table_w{margin:1em 0;font-size:11px;}
+.form_table_w input,
+.form_table_w textarea,
+.form_table_w select,
+.form_table_w table,
+.form_table_w button{font-size:11px}
+.form_table_w table{width:100%;border:0;border-top:2px solid #999}
+.form_table_w caption{padding:8px 0;font-weight:bold;text-align:center;}
+.form_table_w th,
+.form_table_w td{padding:4px;border:0;vertical-align: middle;font-size:11px}
+.form_table_w th{color:#333;font-size:11px}
+.form_table_w td{color:#666;font-size:11px}
+.form_table_w thead th{border-bottom:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;background:#f8f8f8;text-align:center;}
+.form_table_w tbody th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;background:#fafafa;text-align:center;}
+.form_table_w tfoot th{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd}
+.form_table_w tbody td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;text-align:center;}
+.form_table_wtfoot td{border-bottom:1px solid #ddd;border-left:1px solid #ddd;border-right:1px solid #ddd;font-weight:bold;color:#333}
+.form_table_w .item{position:relative;margin:-4px 0}
+.form_table_w .item .i_help{position:absolute;top:4px;right:0}
+.form_table_w .item .i_label{ top:6px; left:10px}
+.form_table_w .item .i_dsc{margin:2px 0}
+.form_table_w .item .i_check,
+.form_table_w .item .i_radio{width:13px;height:13px;margin:2px 5px 2px 0;padding:0;vertical-align:middle}
+.form_table_w .item .i_text{position:relative;margin:2px;padding:3px 4px;border:1px solid #b7b7b7;border-right-color:#e1e1e1;border-bottom-color:#e1e1e1;background:transparent}
+.form_table_w .item .hide{visibility:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:0;line-height:0}
+.form_table_w .item select{margin:2px}
+.form_table_w .item label{margin:0 10px 0 0;cursor:pointer}
+/*ë„“ì€í‘œìš©*/
+
+/*ë‹¬ë ¥*/
+.form_calendar table{border-collapse:collapse;}
+.form_calendar thead th{border:1px solid #bbbbbb;}
+.form_calendar tbody td{border:1px solid #bbbbbb;border-top:none;padding:10px;}
+
+

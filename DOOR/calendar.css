@@ -1,0 +1,65 @@
+/*달력*/
+.calendar{overflow:hidden;width:194px;border-right:1px solid #dddddd;font-family:'돋움',dotum;font-size:12px;line-height:12px;text-align:center; height:180px;}
+.calendar a{text-decoration:none !important}
+.calendar img{border:0}
+.calendar a.btn_cal{display:inline-block;width:31px;padding-right:2px;background:url(../../content/images/common/bg_btn_cal.gif) no-repeat 100% 0;font-size:11px;color:#888;letter-spacing:-1px;line-height:19px;text-decoration:none}
+.calendar a.btn_cal:hover{color:#000}
+.calendar a.btn_cal span{display:block;padding:1px 0 0 2px;background:url(../../content/images/common/bg_btn_cal.gif) no-repeat}
+.calendar .calendar_type{overflow:hidden;height:27px;background:#f2f2f2}
+.calendar .calendar_type .note{float:left;padding:7px 0 0 5px;font-size:11px;line-height:13px;letter-spacing:-1px}
+.calendar .calendar_type .note span{display:inline-block;overflow:hidden;width:65px;white-space:nowrap;text-overflow:ellipsis}
+.calendar .calendar_type .note img{margin-top:1px;vertical-align:top}
+.calendar .calendar_type .btns{float:right;padding:3px 5px 0 3px}
+.calendar .calendar_type .btns a{margin-left:-3px}
+.calendar .calendar_type .selected{color:#d00 !important}
+.calendar .calendar_period{clear:both;margin:15px 0 10px}
+.calendar .calendar_period a{display:inline-block;margin:-1px -1px 0;padding:1px;vertical-align:middle}
+.calendar .calendar_period a img{vertical-align:top}
+.calendar .calendar_period strong{display:inline-block;width:83px;font-family:verdana;font-size:13px;color:#333;line-height:15px;text-align:center}
+.calendar table{width:168px;margin:0 auto 5px;border:0}
+.calendar table caption,.calendar table thead{display:none}
+.calendar table td{padding:0;border:0;background:#fff;border:0;border-bottom:3px solid #fff;font-family:verdana,tahoma;font-size:10px;line-height:12px; height:20px;}
+.calendar table td.selectable a{background:#fffcb2}
+.calendar table td.selected a{background:#e5f2ff}
+.calendar table td.today a{background:#7f7f7f;color:#fff}
+.calendar table td a{display:block;width:24px;height:13px;color:#000;text-align:center;letter-spacing:-1px}
+.calendar table td.sun a{color:#f00}
+.calendar table td.sat a{color:#00f}
+.calendar .calendar_input_period{margin:0 5px 0;padding:4px 0;border-top:1px solid #e5e5e5;color:#666}
+.calendar .calendar_input_period .tilde{margin:0 -3px;font-family:tahoma;font-size:11px;color:#aaa}
+.calendar .calendar_input_period input.date{width:62px;height:14px;margin-top:1px;*margin:0 0 -1px;padding:2px 0 0 4px;border:1px solid #ccc;font-family:tahoma;font-size:11px;line-height:13px;vertical-align:top}
+.calendar .calendar_input_period a.btn_cal{color:#454545}
+/*//달력*/
+
+/*달력2*/
+.calendar2{overflow:hidden;width:194px;border-right:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;border-top:1px solid #dddddd;font-family:'돋움',dotum;font-size:12px;line-height:12px;text-align:center; height:180px;}
+.calendar2 a{text-decoration:none !important}
+.calendar2 img{border:0}
+.calendar a.btn_cal{display:inline-block;width:31px;padding-right:2px;background:url(../../content/images/common/bg_btn_cal.gif) no-repeat 100% 0;font-size:11px;color:#888;letter-spacing:-1px;line-height:19px;text-decoration:none}
+.calendar2 a.btn_cal:hover{color:#000}
+.calendar2 a.btn_cal span{display:block;padding:1px 0 0 2px;background:url(../../content/images/common/bg_btn_cal.gif) no-repeat}
+.calendar2 .calendar_type{overflow:hidden;height:27px;background:#f2f2f2}
+.calendar2 .calendar_type .note{float:left;padding:7px 0 0 5px;font-size:11px;line-height:13px;letter-spacing:-1px}
+.calendar2 .calendar_type .note span{display:inline-block;overflow:hidden;width:65px;white-space:nowrap;text-overflow:ellipsis}
+.calendar2 .calendar_type .note img{margin-top:1px;vertical-align:top}
+.calendar2 .calendar_type .btns{float:right;padding:3px 5px 0 3px}
+.calendar2 .calendar_type .btns a{margin-left:-3px}
+.calendar2 .calendar_type .selected{color:#d00 !important}
+.calendar2 .calendar_period{clear:both;margin:15px 0 10px}
+.calendar2 .calendar_period a{display:inline-block;margin:-1px -1px 0;padding:1px;vertical-align:middle}
+.calendar2 .calendar_period a img{vertical-align:top}
+.calendar2 .calendar_period strong{display:inline-block;width:83px;font-family:verdana;font-size:13px;color:#333;line-height:15px;text-align:center}
+.calendar2 table{width:168px;margin:0 auto 5px;border:0}
+.calendar2 table caption,.calendar table thead{display:none}
+.calendar2 table td{padding:0;border:0;background:#fff;border:0;border-bottom:3px solid #fff;font-family:verdana,tahoma;font-size:10px;line-height:12px; height:18px;}
+.calendar2 table td.selectable a{background:#fffcb2}
+.calendar2 table td.selected a{background:#e5f2ff}
+.calendar2 table td.today a{background:#7f7f7f;color:#fff}
+.calendar2 table td a{display:block;width:24px;height:13px;color:#000;text-align:center;letter-spacing:-1px}
+.calendar2 table td.sun a{color:#f00}
+.calendar2 table td.sat a{color:#00f}
+.calendar2 .calendar_input_period{margin:0 5px 0;padding:4px 0;border-top:1px solid #e5e5e5;color:#666}
+.calendar2 .calendar_input_period .tilde{margin:0 -3px;font-family:tahoma;font-size:11px;color:#aaa}
+.calendar2 .calendar_input_period input.date{width:62px;height:14px;margin-top:1px;*margin:0 0 -1px;padding:2px 0 0 4px;border:1px solid #ccc;font-family:tahoma;font-size:11px;line-height:13px;vertical-align:top}
+.calendar2 .calendar_input_period a.btn_cal{color:#454545}
+/*//달력2*/
